@@ -19,7 +19,7 @@ Twilio SID, Twilio Token can be found on the "Console Dashboard" when you login 
 
 Twilio phone number can be obtained at https://www.twilio.com/console/phone-numbers/incoming , this is not your phone number. 
 
-Step 1 : Download and save all the files from "myWebApp" folder here.
+Step 1 : Download and save all the files from "myWebApp" folder on your local computer.
 
 Step 2 : Go to the termianal, then go to the folder where you saved all the file (for example "myWebApp") run command "python flaskFile.py" on your terminal while you are inside the base folder (folder containing flaskFile.py).
 
