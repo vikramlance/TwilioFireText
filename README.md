@@ -24,4 +24,4 @@ Step 1 : Download and save all the files from "myWebApp" folder on your local co
 Step 2 : Go to the termianal, then go to the folder where you saved all the file (for example "myWebApp") run command "python flaskFile.py" on your terminal while you are inside the base folder (folder containing flaskFile.py).
 
 Step 3 : Open the web browser and enter http://127.0.0.1:5000/message in the address bar and 
-### Whola !!! You are ready to send text messages
+### voila !!! You are ready to send text messages
