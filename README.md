@@ -13,7 +13,7 @@ install
 - twilio
 - configobj
 
-Create account on TWILIO and get your Twilio SID, Twilio Token, and Twilio phone number.
+Create account on Twilio (https://www.twilio.com/) and get your Twilio SID, Twilio Token, and Twilio phone number.
 
 Twilio SID, Twilio Token can be found on the "Console Dashboard" when you login into Twilio.
 
