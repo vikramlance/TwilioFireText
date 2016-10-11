@@ -46,5 +46,3 @@ def message():
 			success="You sent a bloody message")
 if __name__=='__main__':
 	app.run()
- 
-	
